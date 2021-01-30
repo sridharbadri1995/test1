@@ -1,0 +1,26 @@
+stage
+build
+test
+deploy
+
+build
+when merge 
+branch mater
+
+cd
+compile -output "/"
+scipte cmd ""
+
+test
+
+deploy
+cd exe/bat
+docker pull "url"
+xcopy "FTPImge"
+
+docker run this -p
+docker push *.
+
+
+
+
