@@ -1,1 +1,2 @@
-
+base image "ba1:v1233"
+docker -p 32432:2134
