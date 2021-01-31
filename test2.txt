@@ -1,1 +1,3 @@
 hi we are going to do the broke commit
+
+changing the line in online for the merge commits 
